@@ -26,4 +26,7 @@ print(sd_value)
 
 # standard deviation is [0.9330879]
 
+# Mean and standard deviation in a message
+print(paste("The Mean is", mean_value, "and the Standard Deviation is", sd_value))
 
+# "The Mean is 25.0388974584382 and the Standard Deviation is 1.00402617309483"
