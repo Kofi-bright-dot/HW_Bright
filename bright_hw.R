@@ -20,3 +20,10 @@ mean_value <- mean(random_numbers)
 print(mean_value)
 
 # [25.05259]
+
+sd_value <- sd(random_numbers)
+print(sd_value)
+
+# standard deviation is [0.9330879]
+
+
